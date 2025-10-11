@@ -1,0 +1,21 @@
+﻿test,words,old_new,textbox.text,,,,,,,,
+c_u_s_,cruise,old,,,,,,,,,
+p_o_e,phone,old,,,,,,,,,
+c_s_i_n,cushion,old,cushion,,,,,,,,
+t_hi_t,tshirt,old,,,,,,,,,
+k_y_,keys,old,keys,,,,,,,,
+l_pt_p,laptop,old,laptop,,,,,,total,answered,proportion
+c_s_,case,old,case,,Proportional hit from the study list,,,,14,9,0.642857143
+p_ste_,poster,old,poster,,Proportional hit from nonprimed words,,,,6,3,0.5
+p_li_e,police,old,police,,Priming Score,,,,,,0.142857143
+P_st_y,pastry,old,pastry,,,,,,,,
+_o_rd,board,old,,,,,,,,,
+_a_b_e,marble,old,marble,,,,,,,,
+_o_se,mouse,old,,,,,,,,,
+_ha_t,chart,old,tshirt,,,,,,,,
+t_bl_,table,new,table,,,,,,,,
+v_s_,vase,new,,,,,,,,,
+c_me_a,camera,new,,,,,,,,,
+p_nc_l,pencil,new,pencil,,,,,,,,
+b_o_,book,new,,,,,,,,,
+b_t_l_,bottle,new,bottle,,,,,,,,
